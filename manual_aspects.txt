@@ -1,0 +1,34 @@
+1
+price money 
+2
+image resolution picture photo pictures photos pic pics 
+3
+weight 
+4
+frame video movie 
+5
+service 
+6
+screen viewer display lcd monitor led 
+7
+lense lenses lens aperture 
+8
+magnification zoom autofocus focusing focus 
+9
+mode modes setting settings menu 
+10
+card memory storage cards 
+11
+battery power batteries 
+12
+shutter 
+13
+focus 
+14
+flash 
+15
+sensitivity 
+16
+exposure 
+17
+sensor ccd 

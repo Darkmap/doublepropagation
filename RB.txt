@@ -1,0 +1,13 @@
+very 2
+too 2
+little 0.5
+strongly 2
+possibly 0.5
+roughly 0.5
+seemingly 0.5
+strongly 2
+extremely 2
+slightly 0.5
+absolutely 2
+totally 2
+definitely 2
